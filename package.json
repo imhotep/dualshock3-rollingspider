@@ -1,0 +1,28 @@
+{
+  "name": "dualshock3-rollingspider",
+  "version": "1.0.0",
+  "description": "Control Parrot Rolling Spider minidrone with a PS3 Dualshock Controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imhotep/dualshock3-rollingspider.git"
+  },
+  "keywords": [
+    "dualshock3",
+    "rollingspider",
+    "parrot"
+  ],
+  "author": "Anis Kadri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imhotep/dualshock3-rollingspider/issues"
+  },
+  "dependencies": {
+    "rolling-spider": "https://github.com/FluffyJack/node-rolling-spider",
+    "dualshock-controller": "https://github.com/imhotep/node-dualshock-controller"
+  },
+  "homepage": "https://github.com/imhotep/dualshock3-rollingspider#readme"
+}
